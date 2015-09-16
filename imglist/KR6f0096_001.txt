@@ -1,0 +1,7 @@
+001-0352b22	TKD 13-1159c	buddhist/K-koreana/13-tif/1100-1199/13_1159_C.TIF
+001-0352c17	TKD 13-1160a	buddhist/K-koreana/13-tif/1100-1199/13_1160_A.TIF
+001-0353a12	TKD 13-1160b	buddhist/K-koreana/13-tif/1100-1199/13_1160_B.TIF
+001-0353a32	TKD 13-1160c	buddhist/K-koreana/13-tif/1100-1199/13_1160_C.TIF
+001-0352c00	T 001-0352c	buddhist/T-taisho/T12/03/T12-0352.png
+001-0353a00	T 001-0353a	buddhist/T-taisho/T12/03/T12-0353.png
+001-0353b00	T 001-0353b	buddhist/T-taisho/T12/03/T12-0353.png
