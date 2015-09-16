@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿彌陀鼓音聲王陀羅尼經
+#+DATE: 2015-08-30 20:02:39.099053
+#+PROPERTY: JUAN 0
